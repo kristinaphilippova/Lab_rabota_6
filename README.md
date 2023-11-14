@@ -10,11 +10,13 @@ ___
 
 ## Тесты программы
 ### Первые два теста. Без ошибок:
-![image](https://github.com/kristinaphilippova/Lab_rabota_6/assets/146865479/d6578e8d-72b4-4621-a3f4-7dcfa6234492)
-![image](https://github.com/kristinaphilippova/Lab_rabota_6/assets/146865479/4815cf97-0f79-4b0d-88e9-0de83981b4ae)
+![image](https://github.com/kristinaphilippova/Lab_rabota_6/assets/146865479/73d9a3cf-309f-4e47-8809-55f5af1a2961)
+![image](https://github.com/kristinaphilippova/Lab_rabota_6/assets/146865479/572a1db0-344e-4411-9132-539ff4abf889)
+
 
 ### Тест с контролем ошибок ввода:
-![image](https://github.com/kristinaphilippova/Lab_rabota_6/assets/146865479/54ece9c3-cd36-4380-b254-1136a4f96a77)
+![image](https://github.com/kristinaphilippova/Lab_rabota_6/assets/146865479/75a6fb53-7508-4a15-b673-a01c1c506340)
+
 
 # Использование программы
 ## Какой файл стоит открывать
