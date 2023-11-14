@@ -4,13 +4,13 @@ def calculate_weights(n_criteria):
     total = 0
 
     for i in range(n_criteria):
-        while True:
-            try:
-                comparison_value = float(input(f"Введите значение сравнения для критерия {i + 1}: "))
-                break
-            except ValueError:
-                print("Ошибка ввода! Попробуйте снова.")
-
+        for j in range(i+1, n_criteria):
+            while True:
+                try:
+                    comparison_value = float(input(f"Введите значение сравнения для критерия {i + 1} и {j + 1}: "))
+                    break
+                except ValueError:
+                    print("Ошибка ввода! Попробуйте снова.")
         criteria.append(comparison_value)
         total += comparison_value
 
